@@ -1,0 +1,2 @@
+# QuickAiLocalFileManager
+just so so
