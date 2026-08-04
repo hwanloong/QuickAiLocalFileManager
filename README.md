@@ -3,7 +3,7 @@
 **开发是由**
 很久很久以前，我编辑文件 比如说批量规律编辑文件需要一个一个改。后面我认识了cmd，但还是由于不懂和麻烦的缘故我没有深入下去，后来我认识了ai，通过ai快捷生成脚本执行。但是我发现ai工具可能存在功能分散，集合度不高的问题导致描述可能有些繁琐，所有进入开发这个玩意以集合 快速集成需求+ai生成+执行 的软件 帮助咱高效编辑文件
 
-https://github.com/hwanloong/QuickAiLocalFileManager/blob/main/537290a6-9302-44cd-b109-23311360f7dd.png
+![image](https://github.com/hwanloong/QuickAiLocalFileManager/blob/main/537290a6-9302-44cd-b109-23311360f7dd.png)
 
 **功能**
 提出问题→输出方案→论证安全性→运行代码→完成任务
